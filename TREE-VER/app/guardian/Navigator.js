@@ -1,5 +1,5 @@
 import React from 'react'
-import { createNativeStackNavigator } from '@react-navigation/native-stack'
+import { createNativeStackNavigator } from '@react-navigation/native-stack' 
 import Guardian from './Guardian'
 import Update from './Update'
 
